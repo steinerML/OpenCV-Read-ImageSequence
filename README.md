@@ -1,4 +1,4 @@
-# OpenCV read image sequence.
+# OpenCV Read Image Sequence.
 Read, Display image sequence using OpenCV
 ## Contents:
 
