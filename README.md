@@ -1,5 +1,5 @@
 # OpenCV Read Image Sequence.
-Read, Display image sequence using OpenCV.
+Read, Display image sequence using OpenCV
 ## Contents:
 
 Processing image frames from an image sequence is very similar to processing frames from a video stream. Just specify the image files which are being read. 
