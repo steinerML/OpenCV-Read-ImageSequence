@@ -7,7 +7,7 @@ Processing image frames from an image sequence is very similar to processing fra
 | Function     |Action                                     |
 |-------------:|-------------------------------------------|
 |videocapture()|   Creates videocapture object             |
-|videoWriter() | Saves the output video to a directory     |
+|videowriter() | Saves the output video to a directory     |
 
 ## Test Images used: 
 Below the image sequences I used to execute the aforementioned functions:
